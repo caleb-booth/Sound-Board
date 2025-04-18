@@ -2,6 +2,8 @@
 
 **SoundPad** is a creative SwiftUI project that allows users to mix beats and bass loops using a colorful, interactive interface. Built for fun and learning, it's perfect for exploring audio design through code.
 
+![game play](GamePlay.png)
+
 ---
 
 ## 🧠 About the Project
